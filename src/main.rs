@@ -21,5 +21,5 @@ fn main() {
         if line.contains(&arg.pattern) {
             println!("{line}");
         }
-    }
+    }  
 }
